@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 # Load environment variables from .env
 load_dotenv()
 
-# this is the Alembic Config object
+#Alembic Config object
 config = context.config
 
 # Interpret the config file for Python logging.
